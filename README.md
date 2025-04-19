@@ -21,7 +21,8 @@ Play the game, guess the word, and improve your vocabulary!
 ---
 
 ## 📁 Project Structure
-1.index.html
-2.style.css
-3.script.js
-4.word.js(for word and hint)
+1. index.html
+2. style.css
+3. script.js
+4. word.js
+
