@@ -6,7 +6,7 @@ Play the game, guess the word, and improve your vocabulary!
 ## 🚀 Live Demo
 
 👉 [Click here to play the game](https://github.com/Anitapandey01/word-scramble-game/)
-*(Replace with your actual GitHub Pages link)*
+
 
 ---
 
