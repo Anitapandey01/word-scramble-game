@@ -5,15 +5,8 @@ Play the game, guess the word, and improve your vocabulary!
 
 ## 🚀 Live Demo
 
-👉 [Click here to play the game](https://your-username.github.io/word-scramble-game/)  
+👉 [Click here to play the game](https://github.com/Anitapandey01/word-scramble-game/)
 *(Replace with your actual GitHub Pages link)*
-
----
-
-## 📸 Screenshots
-
-![Screenshot](screenshot.png)  
-*(Optional: Add a screenshot of your game UI)*
 
 ---
 
@@ -28,4 +21,7 @@ Play the game, guess the word, and improve your vocabulary!
 ---
 
 ## 📁 Project Structure
-
+1.index.html
+2.style.css
+3.script.js
+4.word.js(for word and hint)
